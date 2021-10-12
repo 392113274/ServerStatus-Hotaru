@@ -1,0 +1,64 @@
+{"servers":
+ [
+  {
+   "username": "06",
+   "password": "06",
+   "name": "硅谷06",
+   "type": "KVM",
+   "host": "None",
+   "location": "硅谷",
+   "disabled": false ,
+   "region": "US"
+  },
+  {
+   "username": "05",
+   "password": "05",
+   "name": "硅谷05",
+   "type": "KVM",
+   "host": "None",
+   "location": "硅谷",
+   "disabled": false ,
+   "region": "US"
+  },
+  {
+   "username": "04",
+   "password": "04",
+   "name": "旧金山",
+   "type": "KVM",
+   "host": "None",
+   "location": "旧金山",
+   "disabled": false ,
+   "region": "US"
+  },
+  {
+   "username": "03",
+   "password": "03",
+   "name": "洛杉矶",
+   "type": "KVM",
+   "host": "None",
+   "location": "洛杉矶",
+   "disabled": false ,
+   "region": "US"
+  },
+  {
+   "username": "02",
+   "password": "02",
+   "name": "日本",
+   "type": "VPS",
+   "host": "None",
+   "location": "日本",
+   "disabled": false ,
+   "region": "JP"
+  },
+  {
+   "username": "01",
+   "password": "01",
+   "name": "香港",
+   "type": "VPS",
+   "host": "",
+   "location": "香港",
+   "disabled": false,
+   "region": "HK"
+  }
+ ]
+}
